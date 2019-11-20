@@ -1,2 +1,0 @@
-# CurrencyExchange
-Created with CodeSandbox
